@@ -1,0 +1,11 @@
+title: "Astrologia Sociale"
+description: "Astrologia, Mito e Storia. Cronache antiche e moderne con sprazzi di futuro."
+baseurl: "/Astrologia-sociale"
+url: "https://nerowolfny-alt.github.io"
+lang: "it"
+markdown: kramdown
+theme: null
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
