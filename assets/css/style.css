@@ -1,23 +1,13 @@
-body {
-  font: bold 19px 'Copse', serif;
-  color: #5b5b5b;
-  background: #fff url('../images/body-bg.jpg') no-repeat top center;
-}
-
-h1 {
-  font: bold 77px 'Hanuman', serif;
-  color: #0B8043;
-  text-shadow: 2px 2px rgba(0,0,0,0.1);
-}
 .hero {
     background-image: url('/assets/images/body-bg.jpg');
-    background-size: cover; /* occupa tutta la larghezza */
+    background-size: cover;
     background-position: center;
-    height: 400px; /* puoi regolare l'altezza */
+    height: 400px;
+}
+
 .post-outer {
   padding: 15px 20px;
   margin-bottom: 25px;
   border: 1px dotted #d0c1a2;
   background: url('../images/post_background_birds.png');
 }
-
